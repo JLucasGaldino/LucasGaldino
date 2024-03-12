@@ -1,0 +1,30 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Lucas Galdino
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  profileMode:
+    enabled: true
+    title: "Lucas Galdino"
+    subtitle: "Biology student and coder"
+    imageUrl: "images/self__image.jpg"
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/JLucasGaldino"
+    - name: youtube
+      url: "https://www.youtube.com/@imlucasgaldino"
+    - name: instagram
+      url: "https://www.instagram.com/jlucasgaldino"
+
+outputs: 
+  home:
+    - HTML
+    - RSS
+    - JSON
