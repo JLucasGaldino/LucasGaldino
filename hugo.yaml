@@ -22,6 +22,11 @@ params:
       url: "https://www.youtube.com/@imlucasgaldino"
     - name: instagram
       url: "https://www.instagram.com/jlucasgaldino"
+    - name: rss
+      url: "https://jlucasgaldino.github.io/lucasgaldino/index.xml"
+
+  params:
+    ShowFullTextinRSS: true
 
 outputs: 
   home:
