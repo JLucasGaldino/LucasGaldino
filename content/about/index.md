@@ -4,7 +4,7 @@ title: "About"
 slug: about
 date: 2024-03-13T14:16:59Z
 showtoc: false
-draft: true
+draft: false
 ---
 I am a Brazilian-Canadian programmer and student of biology living in Sherbrooke, Quebec. 
 I am fascinated by how our mind works, and how it affects our experience of reality. 
