@@ -1,5 +1,5 @@
 +++
-title = 'The Pennebaker Journaling Method'
+title = 'A journaling method to help you deal with trauma, anxiety, depression, and autoimmune disease'
 date = 2024-08-17T21:49:21-04:00
 draft = false
 +++
