@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lucas Galdino</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Lucas Galdino</description>
+    <title>Posts on Lucas Galdino</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Lucas Galdino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Aug 2024 21:49:21 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Pennebaker Journaling Method</title>
       <link>http://localhost:1313/posts/the-pennebaker-journaling-method/</link>
@@ -55,30 +55,6 @@ Like bullet journaling for managing your tasks and projects, or commonplace book
 <h1 id="further-reading">Further reading</h1>
 <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3759583/">Krpan, Katherine M., Ethan Kross, Marc G. Berman, Patricia J. Deldin, Mary K. Askren, and John Jonides. “An Everyday Activity as a Treatment for Depression: The Benefits of Expressive Writing for People Diagnosed with Major Depressive Disorder.” Journal of Affective Disorders 150, no. 3 (September 25, 2013): 1148–51. https://doi.org/10.1016/j.jad.2013.05.065.</a></p>
 <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8935176/">Sohal, Monika, Pavneet Singh, Bhupinder Singh Dhillon, and Harbir Singh Gill. “Efficacy of Journaling in the Management of Mental Illness: A Systematic Review and Meta-Analysis.” Family Medicine and Community Health 10, no. 1 (March 18, 2022): e001154. https://doi.org/10.1136/fmch-2021-001154.</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 13 Mar 2024 14:16:59 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>I am a Brazilian-Canadian programmer and student of biology living in Sherbrooke, Quebec. I am fascinated by how our mind works, and how it affects our experience of reality. In particular, I want to understand how it is shaped by the various rituals, habits, and practices that permeate our daily life.
-In this website, as well as in my YouTube channel, I will be publishing various articles, essays, and videos on the subjects of neuroscience, health, technology, and phylosophy.</description>
-      <content:encoded><![CDATA[<p>I am a Brazilian-Canadian programmer and student of biology living in Sherbrooke, Quebec.
-I am fascinated by how our mind works, and how it affects our experience of reality.
-In particular, I want to understand how it is shaped by the various
-rituals, habits, and practices that permeate our daily life.</p>
-<p>In this website, as well as in my <a href="https://www.youtube.com/@imlucasgaldino">YouTube channel,</a> I will be publishing
-various articles, essays, and videos on the
-subjects of neuroscience, health, technology, and phylosophy.
-I will also, occasionally, share some free-form writing, such as poems
-or thoughts.</p>
-<p>My goal in this endeavour is to discover, research, and experiment
-with different practices and their effect on our mental and physical health,
-and to share this discovery with you. We&rsquo;ll discuss how to apply these tools
-in daily life and the science behind them. Because I believe science should be
-made available to all. Health should be made available to all.</p>
-<p>I hope that you might find some value and enjoyment in my videos and writings.</p>
 ]]></content:encoded>
     </item>
   </channel>
