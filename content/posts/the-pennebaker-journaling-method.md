@@ -10,9 +10,9 @@ The act of writing down my thoughts helps me empty my head, relax and have a cle
 In my journaling journey, I've found that the internet is a great tool for finding interesting journaling methods, each oriented towards a different goal. 
 Like bullet journaling for managing your tasks and projects, or commonplace books for keeping track of things you've learned. 
  
-But today I want to share with you a journaling method that is not so popular but definitely deserves more attention. This method is supported by research to have a great impact in balancing your emotional and mental health. All the resources and bibliography for this video can be found in my personal website. The link is in the description below.
+But today I want to share with you a journaling method that is not so popular but definitely deserves more attention. This method is supported by research to have a great impact in balancing your emotional and mental health. All the resources and bibliography for this post can be found below.
 
-This video is part of a three-video series on journaling that I will be doing on journaling.
+This post is part of a three-post series on journaling that I will be doing on journaling.
 
 A quick disclaimer before I start, I am not a health professional. I am just a pre-med student really interested in psychology, sharing some things on the internet. Please consult a health professional if you're suffering from PTSD, depression, anxiety or any of the things we are going to talk about.
 
@@ -54,7 +54,6 @@ Also, be very careful if you want to share your writings with someone else, sinc
 
 In conclusion, the Pennebaker method is a short and resource-cheap journaling system that can have a great impact in your mental health and well-being. It costs basically nothing except a little bit of your time, while having little negative effects since you can stop at any time. I really recommend trying it out, or sharing it with someone who might need.
 
-Thank you for watching, and I'll see you next time.
 
 # Bibliography
 [“Therapeutic Journaling,” n.d.](https://www.va.gov/WHOLEHEALTHLIBRARY/docs/Therapeutic-Journaling.pdf)
