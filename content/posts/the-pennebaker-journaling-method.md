@@ -1,7 +1,7 @@
 +++
 title = 'The Pennebaker Journaling Method'
 date = 2024-08-17T21:49:21-04:00
-draft = true
+draft = false
 +++
 # The Pennebaker Journaling Method
 I really like journaling. 
